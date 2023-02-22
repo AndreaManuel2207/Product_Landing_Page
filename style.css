@@ -1,0 +1,23 @@
+input[type=email]{
+    background-color: bisque;
+    border: none;
+    border-bottom: 2px soid blue;
+    height: 25px;
+}
+body{
+    background-image: url("https://disruptivo.tv/wp-content/uploads/2020/06/Landing-page-background.jpg");
+}
+a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 25px;
+    padding: 15px;
+}
+#header{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+h1{
+    font-family: Verdana;
+}
