@@ -21,3 +21,22 @@ a{
 h1{
     font-family: Verdana;
 }
+
+@media all and (max-width: 500px){
+    
+    #video2 {
+        
+          height: auto;
+
+    }
+
+    #video {
+
+        height: 250px;
+
+    }
+    body {
+
+        color: blue;
+    }
+}
